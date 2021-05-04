@@ -4,15 +4,11 @@ Guten Tag,
 
 # Zur Person
 
-Für diejenigen von Ihnen, die mich nicht kennen, ich bin Medizinsoziologe mit einem methodischen Schwerpunkt und seit 2004 mit dem RKI, der Abteilung 2 und ihrer früheren Leitung verbunden. Bitte entschuldigen Sie darum, wenn ich im Folgenden manchmal noch "wir" sage und das Monitoring meine.
+ich bin Medizinsoziologe mit einem methodischen Schwerpunkt und war zwischen 2004 und 2019 in verschiedenen Funktionen im Monitoring tätig. Seit 2019 leite ich im Zi die Abteilung Data Science und Versorgungsanalysen. 
 
-Seit 2019 leite ich im Zi die Abteilung Data Science und Versorgungsanalysen. 
-
-Mein Team entwickelt Machine Learning Ansätze im Bereich der Analyse von Abrechnungsdaten und Texten und stellen Informationssysteme für die Ausgestaltung der Versorgung bereit. Ebenfalls beraten wir die Träger in KI Projekten und zu statistischen Fragen und bringen Abrechnungsdaten in viele Innovationsfonds-Projekte ein.
+Mein Team entwickelt Machine Learning Ansätze im Bereich der Analyse von Abrechnungsdaten und Texten und stellt Informationssysteme für die Ausgestaltung der Versorgung bereit. Ebenfalls beraten wir die Träger in KI Projekten und zu statistischen Fragen und bringen Abrechnungsdaten in viele Innovationsfonds-Projekte ein.
 
 # Überschrift Lehren aus der Pandemie
-
-Seit Februar 2020 ist mein **Team der zentrale Anlaufpunkt** für Informationen zur Pandemie im KV-System und auch auf uns hat man dabei nicht immer gehört. Was sind nun meine Lehren im Hinblick auf die Digitalisierung des Monitorings?
 
 # Lehren aus der Pandemie
 
@@ -20,13 +16,16 @@ Infrastruktur, Flexibilität, Schnelligkeit und Open Data.
 
 **Infrastruktur**: Wir brauchten eine historisch einmalige Pandemie, um mit dem  **Intensivregister** eine Infrastruktur aufzubauen, die uns Einblicke in die Situation der Intensivmedizinischen Versorgung  verschafft. Diesen Weg müssen wir darum dringend weitergehen und noch mehr tagesaktuelle Daten zum Zustand unserer kritischen medizinischen Infrastruktur bekommen. Hier helfen jüngsten Gesetzesinitiativen des BMG perspektivisch.
 
-**Flexibilität**: Die Pandemie hat gezeigt, wie wichtig **Surveys** sind, um **flexibel** auf Lagen zu reagieren. Sie können sehr kurzfristig Informationslücken schließen. Hier sind die **Antikörperstudien** des RKI ein eindrückliches Beispiel. Sie zeigen auch den Wert von Kooperationsnetzwerken mit anderen datenerhebenden Institution, wie DIW und DJI. Man kann aber auch aus anderen Studien lernen: Die **COSMO-Studie** zeigt den Wert von Echtzeitdaten, die problematische Heinsberg Studie den Wert von Schnelligkeit. 
+Die Pandemie hat uns auch gezeigt, wie eng das Zusammenspiel von übertragbaren und nichtübertragbaren Erkrankungen ist. Sie es im Kontext der Diskussion vom die Folgen der Public Health Interventionen oder beim grade erst aufkommenden Thema Longcovid. Hier sollten wir uns die stärkere interdisziplinäre Zusammenarbeit erhalten.
 
-Beide zuletzt genannten Studien machen auf **Schwächen** des heutigen Monitorings aufmerksam: So haben wir noch **kein RKI Access-Panel**, dass Daten wie respondi.com, die Anbieter hinter den COSMO-Daten, liefern kann. Die statistisch-/methodische Dokumentation der Studie ist entsprechend dürftig und zeigt, dass man manche Dinge lieber selber machen sollte. Unser Ansatz, **Untersuchungen** mit großem Aufwand und eigener Logistik vor Ort durchzuführen, ist auch nicht immer zielführend. Die bestehende Infrastruktur von Niedergelassenen oder Kliniken vor Ort zu nutzen, kann hier eine Alternative sein. Darum bietet es sich m.E. an, mit dem Hauzsärzteverband, dem BVKJ und dem Marburger Bund ins Gespräch kommen, um diese in Zukunft als Partner zu gewinnen. 
+
+**Flexibilität**: Die Pandemie hat gezeigt, wie wichtig **Surveys** sind, um **flexibel** auf Lagen zu reagieren. Sie können sehr kurzfristig Informationslücken schließen. Hier sind die **Antikörperstudien** des RKI ein eindrückliches Beispiel. Manche Herausforderungen waren dagegen nur von Partnern federführend umzusetzen. Hier zeigten sich die Schwächen der aktuellen Monitoring-Infrastruktur. Einige davon haben wir mit dem Konzept Monitoring 4.0 adressiert, andere nicht.
+
+So ist **ein RKI Access-Panel** seit längerem in Planung, dies braucht es mehr denn je. Unser Ansatz, **Untersuchungen** mit großem Aufwand und eigener Logistik vor Ort durchzuführen, ist auch nicht immer zielführend. Die bestehende Infrastruktur von Niedergelassenen oder Kliniken vor Ort zu nutzen, kann hier eine Alternative sein. Zuletzt brauchst es endlich ein mittelfristiges Betriebskonzept für Monitoringerhebungen und Monitoringinfrastruktur, dass auch einer Pandemie besser trotzen sollte.
 
 **Open Data**: Wir sehen uns als Forscher einer neuen Öffentlichkeit gegenüber, die anspruchsvoller geworden ist. Darum sollte sich das Monitoring möglichst eng mit der neuen **Projektgruppe Wissenschaftskommunikation** vernetzen. Für die Leitmedien wird dagegen Data Journalismus wichtiger. Fehlerfrei maschinenlesbare Datenformate müssen dafür in verlässlicher Form werden. Das leisten wir bisher nicht hinreichend.
 
-Zuletzt **Apps**: Bei Projekte wie der CWA oder der Schulcloud hat man gesehen, dass Prototypen leicht, Produktion aber schwer ist. Wir brauchen interne Kompetenz in der Erstellung und im Verständnis von modernen Apps. Heutzutage sollte ein Public Health Institut jedenfalls nicht auf ArcGIS angewiesen sein, um ein Dashboard zu erstellen. Wir sollten moderne Frontend- und Backendtechnologien selbst hinreichend beherrschen. Diese **Entwicklungskompetenz** würde uns in vielen Projekten helfen. Ein Full Stack Data Scientist sollte heute Javascript, Python, SQL und R beherrschen. Sind wir hier auf dem richtigem Weg? 
+Zuletzt **Apps**: Heutzutage sollte ein Public Health Institut jedenfalls nicht auf ESRI-Infrastruktur angewiesen sein, um ein Dashboard zu erstellen. Wir sollten moderne Frontend- und Backendtechnologien selbst hinreichend beherrschen. Diese **Entwicklungskompetenz** würde uns in vielen Projekten helfen. 
 
 # Modellierungen helfen Public Health
 
