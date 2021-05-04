@@ -4,11 +4,11 @@ Guten Tag,
 
 # Zur Person
 
-Für diejenigen von Ihnen, die mich nicht kennen, ich bin Medizinsoziologe mit einem methodischen Schwerpunkt und seit 2004 mit dem RKI, der Abteilung 2 und ihrer früheren Leitung verbunden. Bitte entschuldigen Sie darum, wenn ich im folgenden noch "wir" sage und das Monitoring meine.
+Für diejenigen von Ihnen, die mich nicht kennen, ich bin Medizinsoziologe mit einem methodischen Schwerpunkt und seit 2004 mit dem RKI, der Abteilung 2 und ihrer früheren Leitung verbunden. Bitte entschuldigen Sie darum, wenn ich im Folgenden manchmal noch "wir" sage und das Monitoring meine.
 
 Seit 2019 leite ich im Zi die Abteilung Data Science und Versorgungsanalysen. 
 
-Wir entwickeln wir Machine Learning Ansätze im Bereich der Analyse von Abrechnungsdaten und Texten und stellen Informationssysteme für die Ausgestaltung der Versorgung bereit. Ebenfalls beraten wir die Träger in KI Projekten und zu statistischen Fragen und bringen Abrechnungsdaten in viele Innovationsfonds-Projekte ein.
+Mein Team entwickelt Machine Learning Ansätze im Bereich der Analyse von Abrechnungsdaten und Texten und stellen Informationssysteme für die Ausgestaltung der Versorgung bereit. Ebenfalls beraten wir die Träger in KI Projekten und zu statistischen Fragen und bringen Abrechnungsdaten in viele Innovationsfonds-Projekte ein.
 
 # Überschrift Lehren aus der Pandemie
 
