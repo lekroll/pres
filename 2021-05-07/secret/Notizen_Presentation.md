@@ -27,13 +27,9 @@ So ist **ein RKI Access-Panel** seit längerem in Planung, dies braucht es mehr 
 
 Zuletzt **Apps**: Heutzutage sollte ein Public Health Institut jedenfalls nicht auf ESRI-Infrastruktur angewiesen sein, um ein Dashboard zu erstellen. Wir sollten moderne Frontend- und Backendtechnologien selbst hinreichend beherrschen. Diese **Entwicklungskompetenz** würde uns in vielen Projekten helfen. 
 
-# Modellierungen helfen Public Health
+# Modellierungen und Data Mining
 
-Das hier ist so eine Javascript **Web-App**. Hier geht es mir aber nicht um die digitale Technologie, sondern um die **Potenziale** ihrer Nutzung für Public Health. Wir konnten mit dieser App im Februar viele Entscheider*innen davon überzeugen, dass schnellstmöglich in den Praxen geimpft werden muss. Warum? Ich glaube auch, sie damit selbst prüfen konnten, ob Ihre Mittel und Ziele kongruent sind. Für solche Simulationen benötigen wir hinreichend konkrete Forschung, die Datengrundlagen dafür liefert aber auch interne Entwicklungskompetenzen. Ein weiter Grund ist zudem der Einzug von **Apps ins SGB V**. Wobei hier die Verordnungen noch sehr selten sind.
-
-*klick*
-
-Konzeptpapiere, Schaubilder, Diagramme und Tabellen sind dagegen eine notwendige aber keine hinreichende Bedingung um gehört zu werden.  
+Warum Entwicklungskompetenzen helfen, möchte ich durch zwei Arbeiten meines Teams am Zi veranschaulichen. Beides sind Javascript basierte **Web-Apps**. Im linken Beispiel geht es mir um die **Potenziale** Interaktiver Modellierungen für Public Health. Wir konnten mit dieser App im Februar viele Entscheider*innen davon überzeugen, dass schnellstmöglich in den Praxen geimpft werden muss. Ein weiteres Beispiel ist auf der rechten Seite. Eine App über Apps. Wir haben Text Mining und Methoden der Natürlichen Sprachanalyse verwendet um automatisiert Gesundheitsapps zu finden sowie verschiedenste Metadaten für Sie zu generieren, wie Themenbereiche, Funktionen, CE-Zulassungsdaten oder Nutzerzahlen. Bei den DiGAs, also den sog. **Apps auf Rezept** haben wir auch noch passende Analysen mit Abrechnungsdaten durchgeführt, um Patientenkollektive zu bestimmen. In Zukunft wollen wir auch Bewertungen von Apps nutzen. Wir verbreiten mit diesen Kompetenzen also nicht nur Informationen, sondern erhalten auch neue Daten.
 
 # Ziele
 
