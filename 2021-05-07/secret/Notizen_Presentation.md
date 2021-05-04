@@ -59,7 +59,7 @@ Um agiler im Sinne des Manifestes zu werden, müssen wir uns alle unsere Prozess
 
 # Umsetzung
 
-Wie kommen wir an dieses Ziel? Ich würde sagen die Abteilung braucht eine neue **Strategie die "Data" und "Science" enger zusammenführt**. Sie können Einwänden: "Hey, beides machen wir doch jeden Tag!" Stimmt, aber es passiert zu oft in getrennten Bereichen und ist zu wenig aufeinander bezogen und koordiniert. Probleme werden in temporären Arbeitsgruppen diskutiert statt von **Projektteams** mit klaren Ressourcen und klaren Meilensteinen gelöst zu werden. 
+Wie kommen wir an dieses Ziel? Ich würde sagen die Abteilung braucht eine neue **Strategie die "Data" und "Science" enger zusammenführt**. Sie können einwenden: "Hey, beides machen wir doch jeden Tag!" Stimmt, aber es passiert zu oft in getrennten Bereichen und ist zu wenig aufeinander bezogen und koordiniert. Probleme werden in temporären Arbeitsgruppen diskutiert statt von **Projektteams** mit klaren Ressourcen und klaren Meilensteinen gelöst zu werden. 
 
 ## Organisation
 
