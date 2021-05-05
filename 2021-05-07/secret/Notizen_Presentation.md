@@ -36,7 +36,11 @@ Was **Gesundheitsmonitoring** ausmacht, hat Bärbel Kurth bereits 2009 prägnant
 
 # Monitoring im Spannungsfeld
 
-Monitoring wurde in der Abteilung, früher gerne mit Fokus auf die Surveys verwendet. Im Konzept Monitoring 4.0 haben wir den Begriff dagegen als übergreifenden Rahmen verwendet und die Surveillance nichtübertragbarer Erkrankungen als Sonderfall. Hilfreicher finde ich die Unterscheidung nach Entstehungszusammenhang eines Forschungsprogramms. Mit einem Teil der Public Health Themen beschäftigt sich Monitoring dauerhaft, andere Bilden Schwerpunkte der Arbeit des RKI und zuletzt gibt es Sonderthemen, die kurzfristig aus Public Health Sicht oder in Folge einer politischer Schwerpunkte in den Fokus rücken. Die Daten sind aber kein Unterscheidungsmerkmal zwischen den Themen, wie man am letzten Gesundheitsbericht für Deutschland oder an anderen GBE-Mammutprojekten sieht, sollten Primär- und Sekundärdaten gemeinsam betrachtet werden. 
+Monitoring wurde in der Abteilung, früher gerne mit Fokus auf die Surveys verwendet. Im Konzept Monitoring 4.0 haben wir den Begriff dagegen als übergreifenden Rahmen verwendet und die Surveillance nichtübertragbarer Erkrankungen als Sonderfall. 
+
+# Monitoring im Spannungsfeld
+
+Hilfreicher finde ich die Unterscheidung nach Entstehungszusammenhang eines Forschungsprogramms. Mit einem Teil der Public Health Themen beschäftigt sich Monitoring dauerhaft, andere Bilden Schwerpunkte der Arbeit des RKI und zuletzt gibt es Sonderthemen, die kurzfristig aus Public Health Sicht oder in Folge einer politischer Schwerpunkte in den Fokus rücken. Die Daten sind aber kein Unterscheidungsmerkmal zwischen den Themen, wie man am letzten Gesundheitsbericht für Deutschland oder an anderen GBE-Mammutprojekten sieht, sollten Primär- und Sekundärdaten gemeinsam betrachtet werden. 
 
 Das Monitoring als Organisation muss also leisten nicht nur Primärdaten sondern auch relevante Sekundärdaten gewinnen, aufbereiten, analysieren und die Ergebnisse und Daten disseminieren. Mit begrenzten Ressourcen stellt sich immer wieder die Frage der Priorisierung zwischen den vier Aktivitäten und den Datenkörpern. Dies geschieht im Spannungsfeld von Politik, Wissenschaft und Bevölkerung. Die Pandemie hat uns dabei gelehrt, dass wir auf keinen Datenkörper verzichten können und auch keinen Tätigkeitsbereich vernachlässigen dürfen. Darum bleibt nur, in jedem Bereich die Prozesse effizienter zu gestalten und so Lücken schließen zu können. Zum Glück, sind wir nicht die einzigen, die mit diesem Thema konfrontiert sind.
 
