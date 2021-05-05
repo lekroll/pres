@@ -12,12 +12,11 @@ Mein Team entwickelt Machine Learning Ansätze im Bereich der Analyse von Abrech
 
 # Lehren aus der Pandemie
 
-Infrastruktur, Flexibilität, Schnelligkeit und Open Data.
+Die Pandemie ist ein Brennglas unter dem Stärken und Schwächen unseres heutigen Monitorings sichtbar werden. 
 
-**Infrastruktur**: Wir brauchten eine historisch einmalige Pandemie, um mit dem  **Intensivregister** eine Infrastruktur aufzubauen, die uns Einblicke in die Situation der Intensivmedizinischen Versorgung  verschafft. Diesen Weg müssen wir darum dringend weitergehen und noch mehr tagesaktuelle Daten zum Zustand unserer kritischen medizinischen Infrastruktur bekommen. Hier helfen jüngsten Gesetzesinitiativen des BMG perspektivisch.
+**Infrastruktur**: Wir brauchten eine historisch einmalige Pandemie, um mit dem  **Intensivregister** eine Infrastruktur aufzubauen, die uns Einblicke in die Situation der Intensivmedizinischen Versorgung  verschafft. Wie dringend ein leistungsfähiges FDZ Gesundheit benötigt wird zeigt die mangelhafte Datenlagen zu Risiken für eine Beatmung bei Corona. Hier haben die Kassen Daten, die für die Epidemiologie erst viel spät zugänglich waren. Das FDZ wird dieses Problem nur bedingt lösen, wir müssen also jenseits der Abrechnungsdaten daran arbeiten, möglichst in Echtzeit Einblicke in die ambulante und stationäre Versorgung zu erlangen.
 
-Die Pandemie hat uns auch gezeigt, wie eng das **Zusammenspiel von übertragbaren und nichtübertragbaren Erkrankungen** ist. Sie es im Kontext der Diskussion vom die Folgen der Public Health Interventionen oder beim grade erst aufkommenden Thema Longcovid. Hier sollten wir uns die stärkere interdisziplinäre Zusammenarbeit erhalten.
-
+Die Pandemie ist ein Treiber der Interdisziplinarität und zeigt, wie eng das **Zusammenspiel von übertragbaren und nichtübertragbaren Erkrankungen** ist. Sei es im Kontext der Diskussion vom die Folgen der Public Health Interventionen oder beim grade erst aufkommenden Thema Longcovid. Die entstandenen Netzwerke sollten wir auch danach erhalten und stärken.
 
 **Flexibilität**: Die Pandemie hat gezeigt, wie wichtig **Surveys** sind, um **flexibel** auf Lagen zu reagieren. Sie können sehr kurzfristig Informationslücken schließen. Hier sind die **Antikörperstudien** des RKI ein eindrückliches Beispiel. Manche Herausforderungen waren dagegen nur von Partnern federführend umzusetzen. Hier zeigten sich die Schwächen der aktuellen Monitoring-Infrastruktur. Einige davon haben wir mit dem Konzept Monitoring 4.0 adressiert, andere nicht.
 
